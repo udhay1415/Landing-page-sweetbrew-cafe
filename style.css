@@ -1,0 +1,90 @@
+body{
+  background: url(coffee.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+h1{
+  color:#fff;
+  margin-left: 10px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  font-size:  100px;
+  text-align:  left;
+  letter-spacing: -0.01em;
+  font-weight: 200;
+  line-height: 30%;
+  font-family: 'Pacifico', cursive;
+
+}
+.h3-1{
+  color:#fff;
+  margin-right: 40px;
+  margin-left: 10px;
+  margin-top: 50px;
+  font-size:  40px;
+  text-align:  right;
+  letter-spacing: -0.02em;
+  font-weight: 100;
+  line-height: 30%;
+  font-family: 'Pacifico', cursive;
+
+}
+.h3-2{
+  color:#fff;
+  margin-right: 40px;
+  margin-left: 10px;
+  margin-top: 100px;
+  font-size:  40px;
+  text-align:  right;
+  letter-spacing: -0.01em;
+  font-weight: 100;
+  line-height: 30%;
+  font-family: 'Pacifico', cursive;
+
+}
+
+.h3-3{
+  color:#fff;
+  margin-right: 10px;
+  margin-left: 20px;
+  margin-top: 150px;
+  font-size:  40px;
+  text-align:  right;
+  letter-spacing: -0.01em;
+  font-weight: 100;
+  line-height: 30%;
+  font-family: 'Pacifico', cursive;
+
+}
+.ima0{
+  float: left;
+  position: absolute;
+  left: 10px;
+  top:10px;
+  margin-top: 20px;
+  width:80px;
+  height:80px;
+
+
+}
+
+.ima1{margin-top: 10px;
+  position: relative;
+  top: 0px;
+  left: 800px;
+  height: 300px;
+  width: 300px;
+}
+.ima2{margin-top: 10px;
+  position: relative;
+  top: 50px;
+  left: 800px;
+  height: 300px;
+  width: 300px;
+}
+.ima3{margin-top: 10px;
+  position: relative;
+  top: 80px;
+  left: 800px;
+  height: 300px;
+  width: 300px;
+}
